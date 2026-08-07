@@ -10,7 +10,7 @@ The program makes an LED blink the **SOS distress signal (****... --- ...****)**
 
 ## What It Does
 
-* Blinks the **SOS (**** ... --- ... ****)** Morse code pattern using an LED.
+* Blinks the **SOS (****... --- ...****)** Morse code pattern using an LED.
 * Uses different delays to represent dots ( . ), dashes ( - ), and spaces.
 * Demonstrates basic Arduino programming concepts and timing.
 
@@ -35,8 +35,8 @@ The program makes an LED blink the **SOS distress signal (****... --- ...****)**
 Working on this project helped me understand:
 
 * How to use **pinMode()**
-* How `digitalWrite()` controls an LED
-* How `delay()` is used for timing
+* How **digitalWrite()** controls an LED
+* How **delay()** is used for timing
 * The basics of Morse code timing
 * How to plan and write a simple Arduino program from scratch
 
