@@ -6,12 +6,12 @@ Hi Everyone,
 
 This is the **first Arduino project** that I completed by myself without following a tutorial or asking for help. It may be a simple project, but it's an important milestone in my learning journey.
 
-The program makes an LED blink the **SOS distress signal (****`... --- ...`****)** in Morse code using an Arduino. While building it, I got a better understanding of how digital output pins work, how timing affects blinking patterns, and how to break a problem into smaller parts.
+The program makes an LED blink the **SOS distress signal (****... --- ...****)** in Morse code using an Arduino. While building it, I got a better understanding of how digital output pins work, how timing affects blinking patterns, and how to break a problem into smaller parts.
 
 ## What It Does
 
-* Blinks the **SOS (****`... --- ...`****)** Morse code pattern using an LED.
-* Uses different delays to represent dots (`.`), dashes (`-`), and spaces.
+* Blinks the **SOS (**** ... --- ... ****)** Morse code pattern using an LED.
+* Uses different delays to represent dots ( . ), dashes ( - ), and spaces.
 * Demonstrates basic Arduino programming concepts and timing.
 
 ## Hardware Used
@@ -25,7 +25,7 @@ The program makes an LED blink the **SOS distress signal (****`... --- ...`****)
 ## How to Run
 
 1. Connect the LED to the Arduino.
-2. Open the `.ino` file in the Arduino IDE.
+2. Open the **.ino** file in the Arduino IDE.
 3. Select your board and port.
 4. Upload the code.
 5. Watch the LED repeatedly blink the **SOS** Morse code pattern.
@@ -34,7 +34,7 @@ The program makes an LED blink the **SOS distress signal (****`... --- ...`****)
 
 Working on this project helped me understand:
 
-* How to use `pinMode()`
+* How to use **pinMode()**
 * How `digitalWrite()` controls an LED
 * How `delay()` is used for timing
 * The basics of Morse code timing
