@@ -1,0 +1,24 @@
+# Components Required
+
+* 1 × Arduino Uno
+* 1 × LED
+* 1 × 220Ω Resistor
+* 1 × Breadboard
+* Jumper Wires
+
+## Component Purpose
+
+**Arduino Uno**
+Used to run the program and generate the PWM signal.
+
+**LED**
+Displays the fading effect by changing its brightness.
+
+**220Ω Resistor**
+Limits the current flowing through the LED to protect it from damage.
+
+**Breadboard**
+Provides a platform to build the circuit without soldering.
+
+**Jumper Wires**
+Used to connect the Arduino, LED, and resistor together.
