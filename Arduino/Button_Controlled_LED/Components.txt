@@ -1,0 +1,28 @@
+# Components Used
+
+* 1 × Arduino Uno
+* 1 × Push Button
+* 1 × LED
+* 2 × 1KΩ Resistors
+* 1 × Breadboard
+* Jumper Wires
+
+## Component Purpose
+
+**Arduino Uno**
+Used to read the button input and control the LED.
+
+**Push Button**
+Used as the input to turn the LED ON when pressed.
+
+**LED**
+Turns ON when the button is pressed and OFF when the button is released.
+
+**1KΩ Resistors**
+Used to limit current and provide the required resistance in the circuit.
+
+**Breadboard**
+Used to build the circuit without soldering.
+
+**Jumper Wires**
+Used to connect the components to the Arduino.
