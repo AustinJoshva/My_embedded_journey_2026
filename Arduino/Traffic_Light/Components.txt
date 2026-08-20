@@ -1,0 +1,32 @@
+# Components Used
+
+* 1 × Arduino Uno
+* 1 × Red LED
+* 1 × Yellow LED
+* 1 × Green LED
+* 3 × 1KΩ Resistors
+* 1 × Breadboard
+* Jumper Wires
+
+## Component Purpose
+
+**Arduino Uno**
+Used to control the three LEDs and run the traffic light sequence.
+
+**Red LED**
+Represents the stop signal.
+
+**Yellow LED**
+Represents the warning signal.
+
+**Green LED**
+Represents the go signal.
+
+**1KΩ Resistors**
+Used with the LEDs to limit the current and protect them.
+
+**Breadboard**
+Used to build the circuit without soldering.
+
+**Jumper Wires**
+Used to connect the Arduino, LEDs, resistors, and power connections.
